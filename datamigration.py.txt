@@ -1,2 +1,5 @@
 def data_migration():
          print("Hello")
+
+def data_migration1():
+        print("hello")
